@@ -1,0 +1,57 @@
+
+# C++ objects and libs
+
+*.slo
+
+*.lo
+
+*.o
+
+*.a
+
+*.la
+
+*.lai
+
+*.so
+
+*.dll
+
+*.dylib
+
+
+# Qt-es
+
+object_script.*.Release
+
+object_script.*.Debug
+
+/.qmake.cache
+
+/.qmake.stash
+
+*.qbs.user
+
+*.qbs.user.*
+
+*.moc
+
+moc_*.cpp
+
+moc_*.h
+
+*.qmlc
+
+*.jsc
+
+Makefile*
+
+*build-*
+
+
+# QtCreator CMake
+
+CMakeLists.txt.user*
+
+# out dir
+build
